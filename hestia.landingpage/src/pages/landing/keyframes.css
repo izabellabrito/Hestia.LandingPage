@@ -1,0 +1,18 @@
+@keyframes fadein {
+  0% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes grow-btn {
+  0% {
+    left: -200%;
+  }
+
+  100% {
+    left: 200%;
+  }
+}
